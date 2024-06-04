@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
  <img align="center" alt="HTML" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 </div>
  
 <br>
